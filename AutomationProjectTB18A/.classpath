@@ -29,6 +29,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="D:/Selenium jar file/All jar file/poi-4.1.1/poi-4.1.1.jar"/>
 	<classpathentry kind="lib" path="D:/Selenium jar file/All jar file/poi-4.1.1/poi-ooxml-4.1.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/DELL/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar" sourcepath="C:/Users/DELL/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar">
@@ -57,6 +58,8 @@
 	<classpathentry kind="lib" path="D:/Selenium jar file/All jar file/poi-4.1.1/lib/commons-compress-1.19.jar"/>
 	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Sikuli Jar/Sikuli Jar/sikulixapi-2.0.5-win.jar"/>
 	<classpathentry kind="src" path="/Sikuli project"/>
+=======
+>>>>>>> branch 'master' of https://github.com/Mahesh777600/AutomationPracticeTB18A.git
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
